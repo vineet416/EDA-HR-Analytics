@@ -1,5 +1,5 @@
 # HR Analytics – Employee Engagement EDA
-
+ 
 Exploratory data analysis of an HR dataset covering 311 employees (active and terminated).
 The notebook cleans the data and explores salary, performance, engagement, satisfaction, absences, recruitment and attrition.
 The goal is to give HR a quick, visual view of workforce patterns and where to focus attention.
